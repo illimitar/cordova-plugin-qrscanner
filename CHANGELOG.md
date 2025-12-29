@@ -1,3 +1,11 @@
+<a name="3.0.9"></a>
+
+## [3.0.9](https://github.com/illimitar/cordova-plugin-qrscanner/compare/3.0.9...3.0.8) (2025-12-29)
+
+### Patch
+
+- **iOS:** Remoção da dependência `cordova-plugin-add-swift-support`
+
 <a name="3.0.8"></a>
 
 ## [3.0.8](https://github.com/illimitar/cordova-plugin-qrscanner/compare/3.0.7...3.0.8) (2025-12-29)
