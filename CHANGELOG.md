@@ -1,5 +1,5 @@
 <a name="3.0.6"></a>
-## [3.0.6](https://github.com/HeronSantosCom/cordova-plugin-qrscanner/compare/3.0.5...3.0.6) (2023-09-26)
+## [3.0.6](https://github.com/illimitar/cordova-plugin-qrscanner/compare/3.0.5...3.0.6) (2023-09-26)
 
 
 ### Patch 
@@ -9,7 +9,7 @@
 
 
 <a name="3.0.7"></a>
-## [3.0.7](https://github.com/HeronSantosCom/cordova-plugin-qrscanner/compare/3.0.6...3.0.7) (2023-09-26)
+## [3.0.7](https://github.com/illimitar/cordova-plugin-qrscanner/compare/3.0.6...3.0.7) (2023-09-26)
 
 
 ### Patch 
@@ -19,7 +19,7 @@
 
 
 <a name="3.0.5"></a>
-## [3.0.5](https://github.com/HeronSantosCom/cordova-plugin-qrscanner/compare/3.0.4...3.0.5) (2023-09-04)
+## [3.0.5](https://github.com/illimitar/cordova-plugin-qrscanner/compare/3.0.4...3.0.5) (2023-09-04)
 
 
 ### Patch 
@@ -29,7 +29,7 @@
 
 
 <a name="3.0.4"></a>
-## [3.0.4](https://github.com/HeronSantosCom/cordova-plugin-qrscanner/compare/3.0.3...3.0.4) (2023-09-04)
+## [3.0.4](https://github.com/illimitar/cordova-plugin-qrscanner/compare/3.0.3...3.0.4) (2023-09-04)
 
 
 ### Patch 
@@ -38,7 +38,7 @@
 
 
 <a name="3.0.3"></a>
-## [3.0.3](https://github.com/HeronSantosCom/cordova-plugin-qrscanner/compare/3.0.2...3.0.3) (2023-09-01)
+## [3.0.3](https://github.com/illimitar/cordova-plugin-qrscanner/compare/3.0.2...3.0.3) (2023-09-01)
 
 
 ### Patch 
@@ -48,7 +48,7 @@
 
 
 <a name="3.0.2"></a>
-## [3.0.2](https://github.com/HeronSantosCom/cordova-plugin-qrscanner/compare/3.0.1...3.0.2) (2023-09-01)
+## [3.0.2](https://github.com/illimitar/cordova-plugin-qrscanner/compare/3.0.1...3.0.2) (2023-09-01)
 
 
 ### Patch 
