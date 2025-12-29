@@ -23,7 +23,7 @@
         <param name="ios-package" value="QRScanner"/>
       </feature>
     </config-file>
-    <dependency id="cordova-plugin-add-swift-support" spec="~1.7.2" />
+    <!-- <dependency id="cordova-plugin-add-swift-support" spec="~1.7.2" /> -->
     <source-file src="src/ios/QRScanner.swift"/>
     <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
       <string>Este aplicativo precisa de acesso à câmera.</string>
