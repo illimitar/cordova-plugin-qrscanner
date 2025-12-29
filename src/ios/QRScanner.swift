@@ -216,15 +216,9 @@ class QRScanner : CDVPlugin, AVCaptureMetadataOutputObjectsDelegate {
     }
 
     @objc func makeOpaque(){
-        if #available(iOS 13.0, *) {
-            // Do nothing for iOS 13.0 and above
-            self.webView?.isOpaque = false
-            self.webView?.backgroundColor = UIColor.clear
-        } else {
-            self.webView?.isOpaque = true
-            self.webView?.backgroundColor = UIColor.white
-            self.webView?.scrollView.backgroundColor = UIColor.white
-        }
+        self.webView?.isOpaque = true
+        self.webView?.backgroundColor = UIColor.white
+        // self.webView?.scrollView.backgroundColor = UIColor.white
     }
 
     @objc func boolToNumberString(bool: Bool) -> String{
@@ -332,11 +326,7 @@ class QRScanner : CDVPlugin, AVCaptureMetadataOutputObjectsDelegate {
     @objc func show(_ command: CDVInvokedUrlCommand) {
         self.webView?.isOpaque = false
         self.webView?.backgroundColor = UIColor.clear
-        if #available(iOS 13.0, *) {
-            // Do nothing for iOS 13.0 and above
-        } else {
-            self.webView?.scrollView.backgroundColor = UIColor.clear
-        }
+        // self.webView?.scrollView.backgroundColor = UIColor.clear
         self.getStatus(command)
     }
 
